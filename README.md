@@ -7,4 +7,4 @@
 ### 比赛链接：
 #### https://www.datafountain.cn/competitions/314/details/rule
 
-#### 最终复赛成绩：0.177
+#### 最终复赛成绩：0.177 10th
